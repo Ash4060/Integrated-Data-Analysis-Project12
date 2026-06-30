@@ -6,7 +6,7 @@ An end-to-end Data Analysis and Visualization** project developed using Python, 
 
 ---
 
-📌 Project Overview
+📌 Project Overview  
 
 The primary objective of this project is to analyze customer purchasing behavior using a real-world Walmart customer purchases dataset.
 
