@@ -27,6 +27,9 @@ This project serves as a complete example of an Exploratory Data Analysis (EDA) 
 
 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 Integrated-Data-Analysis-Project/
 │
 ├── data/
@@ -41,13 +44,21 @@ Integrated-Data-Analysis-Project/
 │   ├── monthly_sales.png
 │   ├── quarterly_sales.png
 │   ├── sales_by_category.png
-│   
+│   ├── sales_by_city.png
+│   ├── payment_method_distribution.png
+│   ├── purchase_amount_histogram.png
+│   ├── purchase_amount_boxplot.png
+│   ├── age_vs_purchase_amount.png
+│   └── correlation_heatmap.png
+│
 ├── report/
 │   ├── Project_Report.md
 │   └── Project_Report.pdf
 │
 ├── README.md
-
+├── requirements.txt
+└── LICENSE
+```
 ---
 
 📊 Dataset
@@ -193,50 +204,51 @@ All generated figures are stored inside the **images/** directory.
 
 1. Clone the Repository
 
+```text
 git clone https://github.com/YOUR_USERNAME/Integrated-Data-Analysis-Project.git
-
+```
 ---
 
 2. Open the Project
 
-
+```text
 cd Integrated-Data-Analysis-Project
-
+```
 ---
 
 3. Create a Virtual Environment (Optional)
-
+```text
 python -m venv venv
-
+```
 Activate it:
 
 ### Windows
-
+```text
 venv\Scripts\activate
-
+```
 
 ### Linux / macOS
-
+```text
 source venv/bin/activate
-
+```
 ---
 
 4. Install Dependencies
 
-
+```text
 pip install -r requirements.txt
-
+```
 ---
 
 5. Launch Jupyter Notebook
-
+```text
 jupyter notebook
-
+```
 
 Open:
-
+```text
 notebook/Integrated_Data_Analysis.ipynb
-
+```
 
 Run all cells to reproduce the analysis and visualizations.
 
