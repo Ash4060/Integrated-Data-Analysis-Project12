@@ -25,7 +25,6 @@ This project serves as a complete example of an Exploratory Data Analysis (EDA) 
 
 ---
 
-📂 Project Structure
 
 ## 📂 Project Structure
 
@@ -56,8 +55,6 @@ Integrated-Data-Analysis-Project/
 │   └── Project_Report.pdf
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
 ```
 ---
 
