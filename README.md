@@ -294,5 +294,3 @@ Arshad
 B.Tech – Artificial Intelligence & Data Science
 
 ---
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
