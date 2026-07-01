@@ -270,7 +270,6 @@ The analysis provides insights into:
 * Complete Project Report (.md / .pdf)
 * Saved Visualizations
 * README Documentation
-* requirements.txt
 * GitHub Repository
 
 ---
