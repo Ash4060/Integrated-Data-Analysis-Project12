@@ -266,12 +266,12 @@ The analysis provides insights into:
 
 📁 Project Deliverables
 
-* ✔ Jupyter Notebook (.ipynb)
-* ✔ Complete Project Report (.md / .pdf)
-* ✔ Saved Visualizations
-* ✔ README Documentation
-* ✔ requirements.txt
-* ✔ GitHub Repository
+* Jupyter Notebook (.ipynb)
+* Complete Project Report (.md / .pdf)
+* Saved Visualizations
+* README Documentation
+* requirements.txt
+* GitHub Repository
 
 ---
 
