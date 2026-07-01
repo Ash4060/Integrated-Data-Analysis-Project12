@@ -34,7 +34,6 @@ Integrated-Data-Analysis-Project/
 ├── data/
 │   ├── raw/
 │   │   └── Walmart_customer_purchases.csv
-│   └── processed/
 │
 ├── notebook/
 │   └── Integrated_Data_Analysis.ipynb
