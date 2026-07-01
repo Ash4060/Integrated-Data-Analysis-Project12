@@ -35,7 +35,6 @@ Integrated-Data-Analysis-Project/
 ├── data/
 │   ├── raw/
 │   │   └── Walmart_customer_purchases.csv
-│   └── processed/
 │
 ├── notebook/
 │   └── Integrated_Data_Analysis.ipynb
@@ -56,8 +55,6 @@ Integrated-Data-Analysis-Project/
 │   └── Project_Report.pdf
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
 ```
 ---
 
@@ -270,12 +267,11 @@ The analysis provides insights into:
 
 📁 Project Deliverables
 
-* ✔ Jupyter Notebook (.ipynb)
-* ✔ Complete Project Report (.md / .pdf)
-* ✔ Saved Visualizations
-* ✔ README Documentation
-* ✔ requirements.txt
-* ✔ GitHub Repository
+* Jupyter Notebook (.ipynb)
+* Complete Project Report (.md / .pdf)
+* Saved Visualizations
+* README Documentation
+* GitHub Repository
 
 ---
 
